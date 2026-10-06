@@ -1,9 +1,8 @@
 # unlimited_gmail_using_domain
-sesuai judul aja mas
 
+saya pribadi pakai cloudflare
 
-Kalo pakai cloudflare pasti relate, kalo enggak ya paling settingnya sama2 aja
-
+```basj
 1. beli domain yg murah/pakai yg udah ada
 2. pastikan domain lu udh proxied di CF
 3. masuk CF, pilih domain, pilih "email > email routing"
@@ -16,7 +15,7 @@ Kalo pakai cloudflare pasti relate, kalo enggak ya paling settingnya sama2 aja
 10. cari bagian Catch-all-adress, trus edit
 11. pilih send to email utama/yg mau dijadiin tmpt verif lu tadi
 12. save
-
+```
 
 Tips Pro buat Scaling Massal
 Filter Gmail:
